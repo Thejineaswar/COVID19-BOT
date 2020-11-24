@@ -5,7 +5,7 @@ who suspects himself to be COVID-19 positive can call the ambulance to take him 
 This is a django based website to do the same. 
 Updates:
   -The website has been built now and there are some new features added as well:
-        - Report generation - The hospital can declare results by a tap of a button and the naive users will recieve message of the results on their mobile phones. This                   service has been achieved using Twilio.
+        -  Report generation - The hospital can declare results by a tap of a button and the naive users will recieve message of the results on their mobile phones. This                   service has been achieved using Twilio.
         - Payment Gateway services - Paytm payment gateway has been integrated for payments after appointment booking in general. 
         - More user deatils - Initially we just took the basic details of the user. Now we are also taking inputs of the symptoms they face from the user
         - Covid Graph API - As the user would mainly visit the website due to the pandemic. We have included an API to showcase the situation of the pandemic around the world
